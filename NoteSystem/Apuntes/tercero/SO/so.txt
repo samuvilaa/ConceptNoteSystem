@@ -1,0 +1,17 @@
+APUNTES SO
+
+
+
+
+	En cuanto a la reubicación de la memoria, hay dos formas:
+
+		Estática: en tiempo de compilación
+			<<reubicacionmemoria>>En estática, dirección logica=fisica.<<<reubicacionmemoria>>
+			El compilador genera código máquina con direcciones absolutas.
+	
+	
+		Dinámica: en tiempo de compilación
+			<<reubicacionmemoria>>En dinámica, dirección lógica ≠ física.<<<reubicacionmemoria>>
+			Código reubicable: el código máquina contiene direcciones relativas al comienzo del programa.
+			Las direcciones físicas se calculan en tiempo de ejecución...
+	
