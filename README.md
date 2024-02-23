@@ -5,10 +5,12 @@ User will have different subdirectories inside one that will hold all notes. The
 
 There are 3 scripts that contain the different functions: 
 crearnuevocurso.sh: Automates creation of new directory with the different courses student needs.
+
 ![image](https://github.com/samuvilaa/ConceptNoteSystem/assets/151157125/4c58ee39-fde5-4f99-93ff-d862e46c3c9d)
 
 
 guardadonotas.sh: Saves all the text contained in between the established tags
+
 ![image](https://github.com/samuvilaa/ConceptNoteSystem/assets/151157125/0c308db9-5aee-4836-ab05-088c0d24052b)
 
 scriptdrive.sh: Using rclone, uploading a backup do windows.
